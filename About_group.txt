@@ -1,0 +1,5 @@
+This repo belongs to my group (AI&DS) for Practical devops exp1
+Group Members
+1 Imran Mulani
+2 Aniket more
+3 Onkar Mandlik
