@@ -1,1 +1,2 @@
 This is Student 1 Git Assignment
+Student 1 performed Git operations.
